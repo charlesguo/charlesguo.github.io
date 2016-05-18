@@ -1,0 +1,8 @@
+---
+layout: default
+img: giarclist.png
+category: Services
+title: Giarclist (Online Marketplace)
+description: |
+---
+  [Giarclist](http://aqueous-river-31176.herokuapp.com) is an online community marketplace for products and services. Built using Ruby on Rails, PostgreSQL and Bootstrap. Runs on S3 and Heroku.
