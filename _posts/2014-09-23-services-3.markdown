@@ -5,8 +5,8 @@ category: Services
 title: Tradist
 description: |
 ---
-Group project was done together with my team-mates: [Firus](https://github.com/firusfaizal), [Hakim](https://github.com/hakimishere), [KT](https://github.com/khoodose) and [Leok Si](https://github.com/leokleok).
+( This was a group project done together with four other team-mates: [Firus](https://github.com/firusfaizal), [Hakim](https://github.com/hakimishere), [KT](https://github.com/khoodose) and [Leok Si](https://github.com/leokleok) ).
 
 [Tradist](https://github.com/K2GFA/Tradist) is a financial visualization and tracking service which allows users to access historical financial data for a select set of key commodities, indices and equities. Users can sign up for accounts and via JWT authentication, gain access to the data set through an API. Tradist also provides a visual interface with a variety of charts available to investigate correlations.
 
-It is built using Node.js, Express, Plotly, MongoDB.
+It was built using Node.js, Express, Plotly, MongoDB.

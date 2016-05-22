@@ -5,4 +5,4 @@ category: Services
 title: Memory Game
 description: |
 ---
-  [Tech Memory](http://charlesguo.github.io/memory-game/) is based on the classic 2-player memory game with the exception that the pictures are everyone's favourite tech icons. It is built using Javascript, jQuery and CSS.
+  [Tech Memory](http://charlesguo.github.io/memory-game/) is based on the classic 2-player memory game with the exception that the pictures are everyone's favourite tech icons. It was built using Javascript, jQuery and CSS.

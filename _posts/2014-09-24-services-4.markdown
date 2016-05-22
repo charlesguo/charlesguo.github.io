@@ -6,4 +6,4 @@ title: Pollnow
 description: |
 ---
 
-[Pollnow](https://pollnow.herokuapp.com/#/polls) is a real-time polling application for users to quickly create polls and monitor the results of their polls. It is built using Node.js, Express, MongoDB, Socket.IO, Bootstrap and Angular v1.
+[Pollnow](https://pollnow.herokuapp.com/#/polls) is a real-time polling application for users to quickly create polls and monitor the results of their polls. It was built using Node.js, Express, MongoDB, Socket.IO, Bootstrap and Angular v1.
